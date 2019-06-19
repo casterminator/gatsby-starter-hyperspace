@@ -14,28 +14,43 @@ const SecondPage = () => (
     <div id="wrapper">
       <section id="main" className="wrapper">
         <div className="inner">
-          <h1 className="major">A Generic Page</h1>
-          <span className="image fit">
-            <img src={pic4} alt="" />
-          </span>
-          <p>
-            Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
-            mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor
-            sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-            fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit.
-            Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-            Curabitur sapien risus, commodo eget turpis at, elementum convallis
-            elit. Pellentesque enim turpis, hendrerit tristique.
-          </p>
-          <p>
-            Interdum et malesuada fames ac ante ipsum primis in faucibus.
-            Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-            Praesent rutrum sem diam, vitae egestas enim auctor sit amet.
-            Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien
-            risus, commodo eget turpis at, elementum convallis elit.
-            Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
-          </p>
+          <h1 className="major">DINERO Desktop Wallets</h1>
+          <ul className="actions">
+            <li>
+              <a
+                href="https://github.com/dinerocoin/dinero/releases"
+                class="button icon fa-download"
+              >
+                Desktop Wallets (v1.0.1.1)
+              </a>
+            </li>
+            <li>
+              <a
+                href="http://explorer.dinerocoin.org/"
+                class="button icon fa-external-link"
+              >
+                Dinero Blockchain Explorer
+              </a>
+            </li>
+          </ul>
+          <ul className="actions">
+            <li>
+              <a
+                href="https://discordapp.com/invite/EJkEC9g"
+                class="button icon fa-users"
+              >
+                Dinero Discord
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/dinerocoin/Mining-Pools"
+                class="button icon fa-microchip"
+              >
+                Mining Pools
+              </a>
+            </li>
+          </ul>
         </div>
       </section>
     </div>
