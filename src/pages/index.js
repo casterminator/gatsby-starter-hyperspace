@@ -8,7 +8,7 @@ import pic2 from '../images/pic02.jpg';
 import pic3 from '../images/pic03.jpg';
 import Sidebar from '../components/Sidebar';
 import Scroll from '../components/Scroll';
-import Logo from '../images/DINERO Logo_White on black.png';
+import Logo from '../images/DINERO Logo_White on trsprnt.png';
 
 const IndexPage = () => (
   <Layout>
