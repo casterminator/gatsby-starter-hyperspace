@@ -198,9 +198,7 @@ const IndexPage = () => (
       <section id="three" className="wrapper style1 fade-up">
         <div className="inner">
           <h2>Contact Us</h2>
-          <p>
-          NOTE: DINERO CANNOT help with any type of passphrase problems. If you lose your passphrase your DIN is gone forever! Feel free to contact us with any other questions or join Discord for live support from our community.
-          </p>
+
           <div className="split style1">
             <section>
               <ul className="contact">
