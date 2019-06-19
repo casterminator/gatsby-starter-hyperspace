@@ -26,12 +26,9 @@ const IndexPage = () => (
           </p>
           <ul className="actions">
             <li>
-              <a
-                href="https://github.com/dinerocoin/dinero/releases"
-                class="button icon fa-download"
-              >
-                Desktop Wallets (v1.0.1.1)
-              </a>
+              <Link className="button" to="/downloads">
+                Download Wallet
+              </Link>
             </li>
             <li>
               <a
