@@ -35,7 +35,7 @@ const IndexPage = () => (
                 href="http://explorer.dinerocoin.org/"
                 class="button icon fa-external-link"
               >
-                Explorer
+                DIN Explorer
               </a>
             </li>
           </ul>
