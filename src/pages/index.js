@@ -26,17 +26,36 @@ const IndexPage = () => (
           </p>
           <ul className="actions">
             <li>
-              <a href="https://github.com/dinerocoin/dinero/releases" class="button icon fa-download">
+              <a
+                href="https://github.com/dinerocoin/dinero/releases"
+                class="button icon fa-download"
+              >
                 Desktop Wallets (v1.0.1.1)
               </a>
             </li>
             <li>
-              <a href="http://explorer.dinerocoin.org/" class="button icon fa-external-link">
+              <a
+                href="http://explorer.dinerocoin.org/"
+                class="button icon fa-external-link"
+              >
                 Dinero Blockchain Explorer
               </a>
             </li>
+          </ul>
+          <ul className="actions">
             <li>
-              <a href="https://github.com/dinerocoin/Mining-Pools" class="button icon fa-microchip">
+              <a
+                href="https://discordapp.com/invite/EJkEC9g"
+                class="button icon fa-users"
+              >
+                Dinero Discord
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/dinerocoin/Mining-Pools"
+                class="button icon fa-microchip"
+              >
                 Mining Pools
               </a>
             </li>
