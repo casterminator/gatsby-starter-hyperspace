@@ -14,40 +14,57 @@ const SecondPage = () => (
     <div id="wrapper">
       <section id="main" className="wrapper">
         <div className="inner">
-          <h1 className="major">DINERO Desktop Wallets</h1>
+          <h1 className="major">DINERO Downloads</h1>
           <ul className="actions">
             <li>
               <a
-                href="https://github.com/dinerocoin/dinero/releases"
-                class="button icon fa-download"
+                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-linux32.tar.gz"
+                class="button icon fa-linux"
               >
-                Desktop Wallets (v1.0.1.1)
+                Linux Wallet 32-bit
               </a>
             </li>
             <li>
               <a
-                href="http://explorer.dinerocoin.org/"
-                class="button icon fa-external-link"
+                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-linux64.tar.gz"
+                class="button icon fa-linux"
               >
-                Dinero Blockchain Explorer
+                Linux Wallet 64-bit
               </a>
             </li>
           </ul>
           <ul className="actions">
             <li>
               <a
-                href="https://discordapp.com/invite/EJkEC9g"
-                class="button icon fa-users"
+                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-win32.zip"
+                class="button icon fa-windows"
               >
-                Dinero Discord
+                Windows Wallet 32-bit
               </a>
             </li>
             <li>
               <a
-                href="https://github.com/dinerocoin/Mining-Pools"
-                class="button icon fa-microchip"
+                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-win64.zip"
+                class="button icon fa-windows"
               >
-                Mining Pools
+                Windows Wallet 64-bit
+              </a>
+            </li>
+          <ul className="actions">
+            <li>
+              <a
+                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-osx64.tar.gz"
+                class="button icon fa-apple"
+              >
+                MAC OS Wallet 64-bit
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/dinerocoin/dinero/archive/v1.0.1.1.tar.gz"
+                class="button icon fa-linux"
+              >
+                Source Code Unix
               </a>
             </li>
           </ul>
