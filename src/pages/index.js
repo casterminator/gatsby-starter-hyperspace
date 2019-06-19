@@ -35,7 +35,7 @@ const IndexPage = () => (
                 href="http://explorer.dinerocoin.org/"
                 class="button icon fa-external-link"
               >
-                Dinero Blockchain Explorer
+                Blockchain Explorer
               </a>
             </li>
           </ul>
@@ -54,6 +54,24 @@ const IndexPage = () => (
                 class="button icon fa-microchip"
               >
                 Mining Pools
+              </a>
+            </li>
+          </ul>
+          <ul className="actions">
+            <li>
+              <a
+                href="https://coinmarketcap.com/currencies/dinero/"
+                class="button icon fa-line-chart"
+              >
+                CoinMarketCap
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://altexplorer.co/coin/din"
+                class="button icon fa-pie-chart"
+              >
+                AltExplorer
               </a>
             </li>
           </ul>
