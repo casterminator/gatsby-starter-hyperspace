@@ -9,7 +9,6 @@ import Header from '../components/Header';
 
 const SecondPage = () => (
   <Layout>
-    <Header />
 
     <div id="wrapper">
       <section id="main" className="wrapper">
