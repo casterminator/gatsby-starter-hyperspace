@@ -18,28 +18,28 @@ const SecondPage = () => (
           <ul className="actions">
             <li>
               <a
-                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-linux64.tar.gz"
-                class="button icon fa-linux"
-              >
-                Linux Wallet 64-bit
-              </a>
-            </li>
-            <li>
-              <a
                 href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-win64.zip"
                 class="button icon fa-windows"
               >
                 Windows Wallet 64-bit
               </a>
             </li>
-          </ul>
-          <ul className="actions">
             <li>
               <a
                 href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-osx64.tar.gz"
                 class="button icon fa-apple"
               >
-                MAC OS Wallet 64-bit
+                MACOS Wallet 64-bit
+              </a>
+            </li>
+          </ul>
+          <ul className="actions">
+            <li>
+              <a
+                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-linux64.tar.gz"
+                class="button icon fa-linux"
+              >
+                Linux Wallet 64-bit
               </a>
             </li>
             <li>
