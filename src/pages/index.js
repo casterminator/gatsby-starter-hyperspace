@@ -255,6 +255,11 @@ const IndexPage = () => (
                         <span className="label">Discord</span>
                       </a>
                     </li>
+                    <li>
+                      <a href="https://bitcointalk.org/index.php?topic=2828122.0" className="fa-btc">
+                        <span className="label">Bitcointalk</span>
+                      </a>
+                    </li>
                   </ul>
                 </li>
               </ul>
