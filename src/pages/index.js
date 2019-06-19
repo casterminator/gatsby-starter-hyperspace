@@ -27,7 +27,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <Link className="button" to="/downloads">
-                Download Wallet
+                Download Wallets
               </Link>
             </li>
             <li>
@@ -35,7 +35,7 @@ const IndexPage = () => (
                 href="http://explorer.dinerocoin.org/"
                 class="button icon fa-external-link"
               >
-                Blockchain Explorer
+                Explorer
               </a>
             </li>
           </ul>
@@ -187,9 +187,9 @@ const IndexPage = () => (
           </div>
           <ul className="actions">
             <li>
-              <a href="https://github.com/dinerocoin/dinero/releases" class="button icon fa-download">
-                Download Dinero Wallets
-              </a>
+              <Link className="button" to="/downloads">
+                Download Wallets
+              </Link>
             </li>
           </ul>
         </div>
