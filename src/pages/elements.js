@@ -5,6 +5,18 @@ import Layout from '../components/layout';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 
+<html>
+  <head>
+   <title>Crypto Dashboard</title>
+  </head>
+  <body>
+
+   <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+   <div class="coinmarketcap-currency-widget" data-currency="bitcoin" data-base="USD" ></div>
+
+  </body>
+</html>
+
 const SecondPage = () => (
   <Layout>
     <Header />
