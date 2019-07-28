@@ -21,7 +21,7 @@ const IndexPage = () => (
             <img src={Logo} alt="" data-position="25% 25%" />
           </a>
           <p>
-            Dependable Decentralized Global Transactions
+            Dependable Decentralized Global Transactions - sting#8298 - castminer
           <br />
           </p>
           <ul className="actions">
