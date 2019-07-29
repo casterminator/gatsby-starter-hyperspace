@@ -179,9 +179,6 @@ const IndexPage = () => (
                 <br />
                 {' '}
                 <a href="https://graviex.net/markets/dinbtc">Graviex</a>
-                <br />
-                {' '}
-                <a href="https://tradesatoshi.com/Exchange?market=DIN_BTC">TradeSatoshi</a>
               </p>
             </section>
           </div>
