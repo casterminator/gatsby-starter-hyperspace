@@ -30,14 +30,6 @@ const IndexPage = () => (
                 Download Wallets
               </Link>
             </li>
-            <li>
-              <a
-                href="http://explorer.dinerocoin.org/"
-                class="button icon fa-external-link"
-              >
-                Block Explorer
-              </a>
-            </li>
           </ul>
           <ul className="actions">
             <li>
