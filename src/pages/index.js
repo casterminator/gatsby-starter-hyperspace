@@ -164,9 +164,6 @@ const IndexPage = () => (
               <h3>DINERO EXCHANGE Listings</h3>
               <p>
                 {' '}
-                <a href="https://wallet.crypto-bridge.org/market/BRIDGE.DIN_BRIDGE.BTC">CryptoBridge</a>
-                <br />
-                {' '}
                 <a href="https://www.southxchange.com/Market/Book/DIN/BTC">SouthXchange</a>
                 <br />
                 {' '}
