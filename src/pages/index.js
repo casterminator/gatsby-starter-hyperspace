@@ -12,6 +12,8 @@ import Logo from '../images/DINERO Logo_White on trsprnt.png';
 
 const IndexPage = () => (
   <Layout>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="323c87d7-fcb8-49c5-9009-303ba628a838" data-blockingmode="auto" type="text/javascript"></script>
+
     <Sidebar />
 
     <div id="wrapper">
