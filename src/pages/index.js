@@ -36,7 +36,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <a
-                href="https://discordapp.com/invite/EJkEC9g"
+                href="https://discordapp.com/invite/EJkEC9g" target="_blank"
                 class="button icon fa-users"
               >
                 Dinero Discord
@@ -44,7 +44,7 @@ const IndexPage = () => (
             </li>
             <li>
               <a
-                href="https://github.com/dinerocoin/Mining-Pools"
+                href="https://github.com/dinerocoin/Mining-Pools" target="_blank"
                 class="button icon fa-microchip"
               >
                 Mining Pools
@@ -62,7 +62,7 @@ const IndexPage = () => (
             </li>
             <li>
               <a
-                href="https://altexplorer.co/coin/din"
+                href="https://altexplorer.co/coin/din" target="_blank"
                 class="button icon fa-pie-chart"
               >
                 AltExplorer
@@ -82,7 +82,7 @@ const IndexPage = () => (
               </p>
               <ul className="actions">
               <li>
-                <a href="https://github.com/dinerocoin/Dinero-Whitepaper/raw/master/Dinero-WhitePaper-v3.pdf" class="button icon fa-download">
+                <a href="https://github.com/dinerocoin/Dinero-Whitepaper/raw/master/Dinero-WhitePaper-v3.pdf" target="_blank" class="button icon fa-download">
                   Dinero Whitepaper v3
                 </a>
               </li>
@@ -130,7 +130,7 @@ const IndexPage = () => (
               <h3>OPEN SOURCE</h3>
               <p>
                 DINERO is OPEN-SOURCE that runs on non-proprietary servers, so there’s no need to rely on any company for continuous support. Anyone can review or contribute to DINERO’s source code on{' '}
-            <a href="https://github.com/dinerocoin/dinero">Github</a>.
+            <a href="https://github.com/dinerocoin/dinero" target="_blank">Github</a>.
               </p>
             </section>
             <section>
@@ -166,10 +166,10 @@ const IndexPage = () => (
               <h3>DINERO EXCHANGE Listings</h3>
               <p>
                 {' '}
-                <a href="https://www.southxchange.com/Market/Book/DIN/BTC">SouthXchange</a>
+                <a href="https://www.southxchange.com/Market/Book/DIN/BTC" target="_blank">SouthXchange</a>
                 <br />
                 {' '}
-                <a href="https://graviex.net/markets/dinbtc">Graviex</a>
+                <a href="https://graviex.net/markets/dinbtc" target="_blank">Graviex</a>
               </p>
             </section>
           </div>
@@ -192,59 +192,59 @@ const IndexPage = () => (
               <ul className="contact">
                 <h3>Chat</h3>
                   <li>
-                    <a href="https://discordapp.com/invite/EJkEC9g" class="button icon fa-discord">
+                    <a href="https://discordapp.com/invite/EJkEC9g" target="_blank" class="button icon fa-discord">
                       Discord
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/joinchat/IKqX_wsLjpx7g6o5beM30Q" class="button icon fa-telegram">
+                    <a href="https://t.me/joinchat/IKqX_wsLjpx7g6o5beM30Q" target="_blank" class="button icon fa-telegram">
                       TeleGram
                     </a>
                   </li>
                 <li>
                   <h3>Email</h3>
-                  <a href="mailto:support@dinerocoin.org">support@dinerocoin.org</a>
+                  <a href="mailto:support@dinerocoin.org" target="_blank">support@dinerocoin.org</a>
                 </li>
                 <li>
                   <h3>Social</h3>
                   <ul className="icons">
                     <li>
-                      <a href="https://twitter.com/DineroCrypto" className="fa-twitter">
+                      <a href="https://twitter.com/DineroCrypto" target="_blank" className="fa-twitter">
                         <span className="label">Twitter</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.facebook.com/DineroCrypto-225049868053385/" className="fa-facebook">
+                      <a href="https://www.facebook.com/DineroCrypto-225049868053385/" target="_blank" className="fa-facebook">
                         <span className="label">Facebook</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://github.com/dinerocoin" className="fa-github">
+                      <a href="https://github.com/dinerocoin" target="_blank" className="fa-github">
                         <span className="label">GitHub</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://t.me/joinchat/IKqX_wsLjpx7g6o5beM30Q" className="fa-telegram">
+                      <a href="https://t.me/joinchat/IKqX_wsLjpx7g6o5beM30Q" target="_blank" className="fa-telegram">
                         <span className="label">Telegram</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.reddit.com/r/Dinerocoin/" className="fa-reddit">
+                      <a href="https://www.reddit.com/r/Dinerocoin/" target="_blank" className="fa-reddit">
                         <span className="label">Reddit</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.youtube.com/channel/UCoj95EkI69ojMjXZqy95BWA" className="fa-youtube">
+                      <a href="https://www.youtube.com/channel/UCoj95EkI69ojMjXZqy95BWA" target="_blank" className="fa-youtube">
                         <span className="label">YouTube</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://discordapp.com/invite/EJkEC9g" className="fa-users">
+                      <a href="https://discordapp.com/invite/EJkEC9g" target="_blank" className="fa-users">
                         <span className="label">Discord</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://bitcointalk.org/index.php?topic=2828122.0" className="fa-btc">
+                      <a href="https://bitcointalk.org/index.php?topic=2828122.0" target="_blank" className="fa-btc">
                         <span className="label">Bitcointalk</span>
                       </a>
                     </li>
