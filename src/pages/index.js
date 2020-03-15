@@ -29,7 +29,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <Link className="button" to="/downloads">
-                Download Wallets
+                Download Walletss
               </Link>
             </li>
           </ul>
