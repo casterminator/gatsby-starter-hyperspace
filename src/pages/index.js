@@ -54,7 +54,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <a
-                href="https://coinmarketcap.com/currencies/dinero/"
+                href="https://coinmarketcap.com/currencies/dinero/" target="_blank"
                 class="button icon fa-line-chart"
               >
                 CoinMarketCap
