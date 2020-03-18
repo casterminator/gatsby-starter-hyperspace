@@ -62,10 +62,10 @@ const IndexPage = () => (
             </li>
             <li>
               <a
-                href="https://altexplorer.co/coin/din" target="_blank"
+                href="https://openchains.info/coin/dinero" target="_blank"
                 class="button icon fa-pie-chart"
               >
-                AltExplorer
+                OpenChains
               </a>
             </li>
           </ul>
