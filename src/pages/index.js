@@ -1,4 +1,4 @@
-<script id="CookieDeclaration" src="https://consent.cookiebot.com/323c87d7-fcb8-49c5-9009-303ba628a838/cd.js" type="text/javascript" async></script>
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
 
 import React from 'react';
 import { Link } from 'gatsby';
