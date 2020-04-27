@@ -120,7 +120,7 @@ const IndexPage = () => (
         <div className="inner">
           <h2>What we do</h2>
           <p>
-            Dinero is a cryptocurrency which enables anonymous instant payments to anyone, anywhere in the world. Dinero uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. What is Dinero’s advantage over other cryptocurrencies? Truly DECENTRALIZED Platform.
+            Dinero is a cryptocurrency which enables anonymous instant payments to anyone, anywhere in the world. Dinero uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Dinero as a Decentralized Platform is an advantage.
           </p>
           <div className="features">
             <section>
