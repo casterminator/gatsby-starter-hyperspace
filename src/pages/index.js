@@ -4,8 +4,8 @@ import { Link } from 'gatsby';
 import Layout from '../components/layout';
 import Footer from '../components/Footer';
 import pic1 from '../images/pic01.jpg';
-import pic2 from '../images/pic02.jpg';
-import pic3 from '../images/pic03.jpg';
+import pic2 from '../images/DINVision.jpg';
+import pic3 from '../images/DINMission.jpg';
 import Sidebar from '../components/Sidebar';
 import Scroll from '../components/Scroll';
 import Logo from '../images/DINERO Logo_White on trsprnt.png';
@@ -96,7 +96,7 @@ const IndexPage = () => (
             <div className="inner">
               <h2>DINERO’s VISION</h2>
               <p>
-                “We want to enable everybody to easily conduct financial transactions with anybody they choose with ease, privacy and dignity without the need to involve or seek permission from third parties”
+                “To enable everyone to conduct financial transactions easily to anyone they choose. With ease, privacy, dignity and without the need to involve or seek permission from third parties.”
               </p>
             </div>
           </div>
@@ -109,7 +109,7 @@ const IndexPage = () => (
             <div className="inner">
               <h2>DINERO’s MISSION</h2>
               <p>
-                “To enable Dinero users to prosper financially by providing a reliable decentralized financial services solution that is easy to use.”.
+                “To offer everyone financial freedom by providing an easy-to-use reliable DECENTRALIZED financial service solution.”
               </p>
             </div>
           </div>
