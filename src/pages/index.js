@@ -167,7 +167,7 @@ const IndexPage = () => (
                 <a href="https://www.southxchange.com/Market/Book/DIN/BTC" target="_blank">SouthXchange</a>
                 <br />
                 {' '}
-                <a href="https://graviex.net/markets/dinbtc" target="_blank">Graviex</a>
+                <a href="https://www.southxchange.com/Market/Book/DIN/BTC" target="_blank">SouthXchange</a>
               </p>
             </section>
           </div>
