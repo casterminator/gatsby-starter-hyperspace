@@ -21,7 +21,7 @@ const IndexPage = () => (
             <img src={Logo} alt="" data-position="25% 25%" />
           </a>
           <p>
-            Dependable Decentralized Global Transactions by Mykke
+            Dependable Decentralized Global Transactions
           <br />
           </p>
           <ul className="actions">
