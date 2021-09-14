@@ -240,7 +240,8 @@ const IndexPage = () => (
                       </a>
                     </li>
                     <li>
-                      <a href="https://discordapp.com/invite/EJkEC9g" target="_blank" className="fa-users">
+                      <a href="https://discordapp.com/invite/EJkEC9g" target="_blank">
+                        <i class="fab fa-discord"></i>
                         <span className="label">Discord</span>
                       </a>
                     </li>
