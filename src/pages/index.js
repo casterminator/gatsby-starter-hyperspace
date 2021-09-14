@@ -83,7 +83,7 @@ const IndexPage = () => (
               </p>
               <ul className="actions">
               <li>
-                <a href="https://github.com/dinerocoin/Dinero-Whitepaper/raw/master/Dinero-WhitePaper-v4.pdf" target="_blank" class="button icon fa-download">
+                <a href="https://github.com/dinerocoin/Dinero-Whitepaper/raw/master/Dinero-WhitePaper-v4.pdf" target="_blank" class="button icon fa-file-pdf-o">
                   Dinero Whitepaper v4
                 </a>
               </li>
