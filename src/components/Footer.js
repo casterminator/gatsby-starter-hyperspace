@@ -10,7 +10,7 @@ const Footer = () => (
           <a href="https://github.com/dinerocoin/Dinero-Docs/blob/master/Dinero_Privacy_Policy.pdf">Privacy Policy</a>
         </li>      
         <li>
-          <a href="https://www.cookieserve.com/">CookieServe Checker</a>
+          <a href="https://www.cookieserve.com/" target="_blank">CookieServe Checker</a>
         </li>
       </ul>
     </div>
