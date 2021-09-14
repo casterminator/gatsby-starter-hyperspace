@@ -27,7 +27,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <a
-                href="https://dinerocoin.org/downloads" target="_blank"
+                href="https://dinerocoin.org/downloads"
                 class="button icon fa-download"
               >
                 Download Wallets
@@ -176,9 +176,12 @@ const IndexPage = () => (
           </div>
           <ul className="actions">
             <li>
-              <Link className="button" to="/downloads">
+              <a
+                href="https://dinerocoin.org/downloads"
+                class="button icon fa-download"
+              >
                 Download Wallets
-              </Link>
+              </a>
             </li>
           </ul>
         </div>
@@ -193,7 +196,7 @@ const IndexPage = () => (
               <ul className="contact">
                 <h3>Chat</h3>
                   <li>
-                    <a href="https://discordapp.com/invite/EJkEC9g" target="_blank" class="button icon fa-discord">
+                    <a href="https://discordapp.com/invite/EJkEC9g" target="_blank" class="button icon fa-comments">
                       Discord
                     </a>
                   </li>
