@@ -36,7 +36,7 @@ const SecondPage = () => (
           <ul className="actions">
             <li>
               <a
-                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-linux64.tar.gz"
+                href="https://github.com/dinerocoin/dinero/releases/download/v1.0.1.1/dinerocore-1.0.1.1-osx-unsigned.dmg"
                 class="button icon fa-linux"
               >
                 Linux Wallet 64-bit
