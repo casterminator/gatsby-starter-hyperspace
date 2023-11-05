@@ -11,7 +11,7 @@
     "email": "anubhav.srivastava00@gmail.com"
   },
   "dependencies": {
-    "gatsby": "^2.4.3",
+    "gatsby": "^3.5.0",
 	"gatsby-plugin-gdpr-cookies": "^1.0.14",
     "gatsby-plugin-manifest": "^2.8.0",
     "gatsby-plugin-offline": "^3.6.0",
